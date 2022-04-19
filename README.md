@@ -1,2 +1,2 @@
-Hello, I'm Azadeh. My programming language is Python and I continue to learn and apply new things everyday. I live in Paris and am part of several communities for Women in programming - Pyladies Paris and Ladies of Code Paris.
+Hello, I'm Azadeh. I live and work in Paris, France. I love Python, Astronomy and the city of Paris.
 
